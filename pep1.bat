@@ -1,0 +1,1 @@
+node moderator.js "./credentialFile.json" adjournal

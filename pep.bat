@@ -1,0 +1,1 @@
+node createChallenges.js "credentialFile.json" adjournal "./questions.js"
