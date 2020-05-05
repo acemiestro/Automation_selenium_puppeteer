@@ -1,0 +1,1 @@
+node fb.js "./credentialFile.json" "https://www.facebook.com/thehindu/" 50
